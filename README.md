@@ -1,5 +1,5 @@
 # 💫 About Me:
-.
+GPRM
 
 
 # 💻 Tech Stack:
